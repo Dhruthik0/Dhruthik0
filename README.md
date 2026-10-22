@@ -33,6 +33,9 @@ I build the plumbing: Android phones that work as SMS and call gateways, browser
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" height="40" alt="React, Vite, Tailwind CSS">
 
+**E-commerce**<br>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+
 **Data**<br>
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,prisma" height="40" alt="PostgreSQL, Redis, MongoDB, SQLite, Prisma">
 
