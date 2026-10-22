@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="t d">
+  <title id="t">Dhruthik</title>
+  <desc id="d">Self-hosted systems that connect Android phones, browsers and backends.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1c2840" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="16" fill="url(#grid)" opacity="0.6"/>
+  <rect width="1200" height="36" rx="16" fill="#0f172a"/>
+  <rect y="20" width="1200" height="16" fill="#0f172a"/>
+  <circle cx="28" cy="18" r="6" fill="#f87171"/>
+  <circle cx="48" cy="18" r="6" fill="#fbbf24"/>
+  <circle cx="68" cy="18" r="6" fill="#34d399"/>
+  <text x="600" y="23" fill="#64748b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" text-anchor="middle">dhruthik@github: ~</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20">
+    <text x="64" y="82"><tspan fill="#34d399">~/Dhruthik0</tspan><tspan fill="#64748b"> $ </tspan><tspan fill="#e2e8f0"><tspan>w<animate attributeName="fill-opacity" from="0" to="0" dur="0.60s"/></tspan><tspan>h<animate attributeName="fill-opacity" from="0" to="0" dur="0.66s"/></tspan><tspan>o<animate attributeName="fill-opacity" from="0" to="0" dur="0.72s"/></tspan><tspan>a<animate attributeName="fill-opacity" from="0" to="0" dur="0.78s"/></tspan><tspan>m<animate attributeName="fill-opacity" from="0" to="0" dur="0.84s"/></tspan><tspan>i<animate attributeName="fill-opacity" from="0" to="0" dur="0.90s"/></tspan></tspan></text>
+    <text x="62" y="142" fill="url(#accent)" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="700">Dhruthik<animate attributeName="opacity" from="0" to="0" dur="1.21s"/></text>
+    <text x="64" y="192"><tspan fill="#34d399">~/Dhruthik0</tspan><tspan fill="#64748b"> $ </tspan><tspan fill="#e2e8f0"><tspan>c<animate attributeName="fill-opacity" from="0" to="0" dur="1.81s"/></tspan><tspan>a<animate attributeName="fill-opacity" from="0" to="0" dur="1.87s"/></tspan><tspan>t<animate attributeName="fill-opacity" from="0" to="0" dur="1.93s"/></tspan><tspan> <animate attributeName="fill-opacity" from="0" to="0" dur="1.99s"/></tspan><tspan>f<animate attributeName="fill-opacity" from="0" to="0" dur="2.05s"/></tspan><tspan>o<animate attributeName="fill-opacity" from="0" to="0" dur="2.11s"/></tspan><tspan>c<animate attributeName="fill-opacity" from="0" to="0" dur="2.17s"/></tspan><tspan>u<animate attributeName="fill-opacity" from="0" to="0" dur="2.23s"/></tspan><tspan>s<animate attributeName="fill-opacity" from="0" to="0" dur="2.29s"/></tspan><tspan>.<animate attributeName="fill-opacity" from="0" to="0" dur="2.35s"/></tspan><tspan>t<animate attributeName="fill-opacity" from="0" to="0" dur="2.41s"/></tspan><tspan>x<animate attributeName="fill-opacity" from="0" to="0" dur="2.47s"/></tspan><tspan>t<animate attributeName="fill-opacity" from="0" to="0" dur="2.53s"/></tspan></tspan></text>
+    <text x="64" y="226" fill="#94a3b8">Android phones → SMS &amp; call gateways · browser tooling · ML backends<animate attributeName="opacity" from="0" to="0" dur="2.84s"/></text>
+    <text x="64" y="258"><tspan fill="#34d399">~/Dhruthik0</tspan><tspan fill="#64748b"> $ </tspan><tspan fill="#38bdf8">▋<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="3.24s" repeatCount="indefinite"/></tspan><animate attributeName="opacity" from="0" to="0" dur="3.24s"/></text>
+  </g>
+</svg>
