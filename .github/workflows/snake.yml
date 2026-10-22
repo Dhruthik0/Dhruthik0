@@ -23,7 +23,8 @@ jobs:
 
       - name: Publish to output branch
         run: |
-          cd dist
+          # snk runs in Docker and leaves dist/ owned by root, so publish from a copy
+          cp -r dist "$RUNNER_TEMP/out" && cd "$RUNNER_TEMP/out"
           git init -q -b output
           git add .
           git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -qm "Update contribution snake"
